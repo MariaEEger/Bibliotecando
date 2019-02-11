@@ -1,2 +1,2 @@
 # Bibliotecando
-Repositório doi projeto de uma biblioteca
+Repositório do projeto de uma biblioteca
